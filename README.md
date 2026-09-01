@@ -32,14 +32,14 @@ Se optimizó la presentación de resultados con mensajes más claros.
 Cómo ejecutar este proyecto
 Clona este repositorio o descarga el archivo .py.
 
+
 Instala las dependencias necesarias:
-
-text
 pip install pandas
-Ejecuta el script:
 
-text
+Ejecuta el script:
 python "Prueba - Obtención y preparación de datos.py"
+
+
 Resultado
 El script entrega como salida un dataset limpio y estructurado, listo para ser utilizado en etapas posteriores de análisis
 estadístico o visualización de datos.
